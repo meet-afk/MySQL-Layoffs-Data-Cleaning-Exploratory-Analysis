@@ -108,7 +108,6 @@ This project was an excellent practical exercise in using **SQL for real-world d
 
 Have feedback or suggestions? I'd love to hear from you!
 
--   **My Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
--   **Contact Me:** [youremail@example.com](mailto:youremail@example.com)
+-   **My Portfolio:** [your-portfolio-link.com](https://meet-afk.github.io/)
 
-Check out my other projects! ➜ **[My GitHub Profile](https://github.com/your-username)**
+Check out my other projects! ➜ **[My GitHub Profile](https://github.com/meet-afk)**
