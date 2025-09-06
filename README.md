@@ -93,8 +93,8 @@ The SQL scripts for both phases of the project are available. To reproduce the r
 2.  Run the queries from the **Data Cleaning** script to create the clean dataset.
 3.  Run the queries from the **Data Analysis** script on the cleaned dataset to derive the insights.
 
--   **[SQL Queries for Data Cleaning](https://your-link-to-cleaning-queries.pdf)**
--   **[SQL Queries for Data Analysis](https://your-link-to-analysis-queries.pdf)**
+-   **[SQL Queries for Data Cleaning](https://github.com/meet-afk/MySQL-Layoffs-Data-Cleaning-Exploratory-Analysis/blob/main/Data_cleaning-Queries.pdf)**
+-   **[SQL Queries for Data Analysis](https://github.com/meet-afk/MySQL-Layoffs-Data-Cleaning-Exploratory-Analysis/blob/main/EDA-Queries.pdf)**
 
 ---
 
