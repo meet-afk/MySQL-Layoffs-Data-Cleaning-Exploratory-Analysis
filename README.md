@@ -108,6 +108,6 @@ This project was an excellent practical exercise in using **SQL for real-world d
 
 Have feedback or suggestions? I'd love to hear from you!
 
--   **My Portfolio:** [your-portfolio-link.com](https://meet-afk.github.io/)
+-   **My Portfolio:** [My Portfolio](https://meet-afk.github.io/)
 
 Check out my other projects! ➜ **[My GitHub Profile](https://github.com/meet-afk)**
