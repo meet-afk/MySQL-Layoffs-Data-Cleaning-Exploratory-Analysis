@@ -7,16 +7,6 @@
 
 This is an end-to-end data project performed entirely in **MySQL**. It covers the full workflow from cleaning a raw, messy layoffs dataset to performing a comprehensive exploratory data analysis (EDA) to uncover significant trends and insights.
 
----
-
-## 📊 Key Insight Preview
-
-Below is a sample visualization that could be derived from the final analysis, showing the dramatic spike in layoffs in early 2023.
-
-![Layoff Trends Chart](https://i.imgur.com/your-eda-chart.png)
-*<-- Suggestion: Replace this with a screenshot of a chart created from your final data, e.g., in Excel or another BI tool. -->*
-
----
 
 ## 📋 Table of Contents
 * [About The Project](#-about-the-project)
